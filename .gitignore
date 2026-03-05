@@ -1,0 +1,66 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Intermediate build files
+build/
+out/
+bin/
+obj/
+*.exp
+*.ilk
+*.pdb
+*.idb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+.cmake/
+
+# Local configuration
+.env
+.idea/
+.vscode/
+
+# Agent Guides
+AGENT_GUIDE.md
+
+# Nexus Mods specific files
+NEXUS_DESCRIPTION.md
+*.zip
